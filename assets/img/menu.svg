@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="20px" viewBox="0 0 32 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-42.000000, -688.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(40.000000, 680.000000)">
+                <rect id="Rectangle" x="0" y="0" width="36" height="36"></rect>
+                <path d="M4,8 L32,8 C33.1045695,8 34,8.8954305 34,10 C34,11.1045695 33.1045695,12 32,12 L4,12 C2.8954305,12 2,11.1045695 2,10 C2,8.8954305 2.8954305,8 4,8 Z M4,16 L32,16 C33.1045695,16 34,16.8954305 34,18 C34,19.1045695 33.1045695,20 32,20 L4,20 C2.8954305,20 2,19.1045695 2,18 C2,16.8954305 2.8954305,16 4,16 Z M4,24 L32,24 C33.1045695,24 34,24.8954305 34,26 C34,27.1045695 33.1045695,28 32,28 L4,28 C2.8954305,28 2,27.1045695 2,26 C2,24.8954305 2.8954305,24 4,24 Z" id="Combined-Shape" fill="currentColor"></path>
+            </g>
+        </g>
+    </g>
+</svg>
